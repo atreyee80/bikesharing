@@ -34,7 +34,7 @@ https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata
 
 https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/NYCStory
 
-# Overview of the analysis: Explain the purpose of this analysis.
+# Overview of the analysis:
 The purpose of this analysis is to show why Bike sharing services in NYC is so popular.With the help of various visualization of the data we can conculde why the bike sharing service in NYC 'CitiBike' is popular.
 This analysis will help to think wheather set up bike-sharing program in Des Moines will be a good option.
 
@@ -44,7 +44,7 @@ This analysis will help to think wheather set up bike-sharing program in Des Moi
 
 
 
-# Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
+# Results: Using the visualizations you have in your Tableau Story.
 This dashboard shows an overview of bike riding services at NYC is so polular
 https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/NYCStory
 
@@ -78,7 +78,7 @@ https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata
 
 
 
-# Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset
+# Summary: 
 The analysis shows that Customers are more active in bike riding over the weekend and Subscribers are active in the weekdays,so we can conclude that Subscribers mostly uses bike to commute during there office hours and Customers maybe mostly tourist .
 We can create another visualization based on number of riders to shows that it is customers who are using bike mostly over the weekend and Subscribers are those who uses bike mainly to use during office transit.
 
