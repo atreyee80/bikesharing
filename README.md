@@ -82,3 +82,6 @@ A heatmap is created showing the number of bike trips for each type of user and 
 
 https://public.tableau.com/app/profile/atreyee.dhar/viz/Book5_16234484220680/UserTripsbyGenderbyWeekday
 
+# DEliverable 3
+NYC Story
+https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/NYCStory
