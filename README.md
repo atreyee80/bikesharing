@@ -57,3 +57,28 @@ The image for Bike Utilization shows that the bigger the bubble the more the bik
 https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book9/BikeUtilization
 
 https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/BikeRepairs
+
+
+# Deliverable 2
+There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour 
+
+https://public.tableau.com/app/profile/atreyee.dhar/viz/Book1_16234464551690/CheckoutTimesforUsers
+
+
+
+There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender
+
+https://public.tableau.com/app/profile/atreyee.dhar/viz/Book2_16234471172790/CheckoutTimesbyGender
+
+A heatmap is created showing the number of bike trips for each hour of each day of the week
+
+https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/3_TripsbyWeekdayforEachHour
+
+A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender
+
+https://public.tableau.com/app/profile/atreyee.dhar/viz/Book4_16234482343070/TripsbyGenderWeekdayperHour
+
+A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender 
+
+https://public.tableau.com/app/profile/atreyee.dhar/viz/Book5_16234484220680/UserTripsbyGenderbyWeekday
+
