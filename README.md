@@ -1,4 +1,39 @@
 # bikesharing
+
+# Deliverable 2
+## There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour 
+
+https://public.tableau.com/app/profile/atreyee.dhar/viz/Book1_16234464551690/CheckoutTimesforUsers
+
+
+
+## There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender
+
+https://public.tableau.com/app/profile/atreyee.dhar/viz/Book2_16234471172790/CheckoutTimesbyGender
+
+## A heatmap is created showing the number of bike trips for each hour of each day of the week
+
+https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/3_TripsbyWeekdayforEachHour
+
+## A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender
+
+https://public.tableau.com/app/profile/atreyee.dhar/viz/Book4_16234482343070/TripsbyGenderWeekdayperHour
+
+## A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender 
+
+https://public.tableau.com/app/profile/atreyee.dhar/viz/Book5_16234484220680/UserTripsbyGenderbyWeekday
+
+
+## NYC Story
+
+https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/NYCStory
+
+# Deliverable 3
+
+## NYC Story
+
+https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/NYCStory
+
 # Overview of the analysis: Explain the purpose of this analysis.
 The purpose of this analysis is to show why Bike sharing services in NYC is so popular.With the help of various visualization of the data we can conculde why the bike sharing service in NYC 'CitiBike' is popular.
 This analysis will help to think wheather set up bike-sharing program in Des Moines will be a good option.
@@ -58,31 +93,3 @@ https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata
 
 https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/BikeRepairs
 
-
-# Deliverable 2
-There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour 
-
-https://public.tableau.com/app/profile/atreyee.dhar/viz/Book1_16234464551690/CheckoutTimesforUsers
-
-
-
-There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender
-
-https://public.tableau.com/app/profile/atreyee.dhar/viz/Book2_16234471172790/CheckoutTimesbyGender
-
-A heatmap is created showing the number of bike trips for each hour of each day of the week
-
-https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/3_TripsbyWeekdayforEachHour
-
-A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender
-
-https://public.tableau.com/app/profile/atreyee.dhar/viz/Book4_16234482343070/TripsbyGenderWeekdayperHour
-
-A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender 
-
-https://public.tableau.com/app/profile/atreyee.dhar/viz/Book5_16234484220680/UserTripsbyGenderbyWeekday
-
-# DEliverable 3
-NYC Story
-
-https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/NYCStory
