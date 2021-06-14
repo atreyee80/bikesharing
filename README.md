@@ -53,6 +53,7 @@ https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata
 
 We can create another visualization based on bike utilazationa vs bike repair.
 The image for Bike Utilization shows that the bigger the bubble the more the bike has been used so it must have more wear and tear so we can create another visualization to show that which bike need to be repair based on Bikeid and number of trips
+
 https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book9/BikeUtilization
 
 https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/BikeRepairs
