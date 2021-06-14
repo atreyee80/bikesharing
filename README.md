@@ -46,8 +46,11 @@ https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata
 # Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset
 The analysis shows that Customers are more active in bike riding over the weekend and Subscribers are active in the weekdays,so we can conclude that Subscribers mostly uses bike to commute during there office hours and Customers maybe mostly tourist .
 We can create another visualization based on number of riders to shows that it is customers who are using bike mostly over the weekend and Subscribers are those who uses bike mainly to use during office transit.
+
 https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/3_TripsbyWeekdayforEachHour
+
 https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book2/customers
+
 We can create another visualization based on bike utilazationa vs bike repair.
 The image for Bike Utilization shows that the bigger the bubble the more the bike has been used so it must have more wear and tear so we can create another visualization to show that which bike need to be repair based on Bikeid and number of trips
 https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book9/BikeUtilization
