@@ -10,13 +10,24 @@ This analysis will help to think wheather set up bike-sharing program in Des Moi
 
 
 # Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
-https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/NYCStory
-https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/NYCStory
-https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/NYCStory
-https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/NYCStory
+This dashboard shows an overview of bike riding services at NYC is so polular
 https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/NYCStory
 
+This visualization shows that most bike riders are riding bike for a maximum of 7 to 10 minutes
 https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/NYCStory
+
+This visualization shows that bike riding is most popular in the morning from 8 to 9 am and in the evening from 5 to 6 pm,which conclude that it must be the office goers who have Subscribe for bike services to be used in commuting to and fro from office
+https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/NYCStory
+
+This visualization shows that bike riding is most popular among male
+https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/NYCStory
+
+This visualization shows that male Subscriber uses bike almost 7days a week compare to Customers which we can assume as tourist.
+https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/NYCStory
+
+
+https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/NYCStory
+
 https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/NYCStory
 
 
