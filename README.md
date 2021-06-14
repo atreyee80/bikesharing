@@ -14,7 +14,7 @@ This dashboard shows an overview of bike riding services at NYC is so polular
 https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/NYCStory
 
 This visualization shows that most bike riders are riding bike for a maximum of 7 to 10 minutes
-https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/NYCStory
+https://public.tableau.com/app/profile/atreyee.dhar/viz/Book1_16234464551690/CheckoutTimesforUsers
 
 This visualization shows that bike riding is most popular in the morning from 8 to 9 am and in the evening from 5 to 6 pm,which conclude that it must be the office goers who have Subscribe for bike services to be used in commuting to and fro from office
 https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/3_TripsbyWeekdayforEachHour
