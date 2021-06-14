@@ -30,7 +30,8 @@ https://public.tableau.com/app/profile/atreyee.dhar/viz/Book2_16234471172790/Che
 This pie chart visualization shows that around 20% are Customers and 880% are Subscribers
 https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book2/customers
 
-https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/NYCStory
+This visualization shows that 25% are female and 70% are male and the rest are unknown
+https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/GenderBreakdown
 
 
 
@@ -47,3 +48,6 @@ The analysis shows that Customers are more active in bike riding over the weeken
 We can create another visualization based on number of riders to shows that it is customers who are using bike mostly over the weekend and Subscribers are those who uses bike mainly to use during office transit.
 We can create another visualization based on bike utilazationa vs bike repair.
 The image for Bike Utilization shows that the bigger the bubble the more the bike has been used so it must have more wear and tear so we can create another visualization to show that which bike need to be repair based on Bikeid and number of trips
+https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book9/BikeUtilization
+
+https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/BikeRepairs
