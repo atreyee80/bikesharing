@@ -20,10 +20,11 @@ This visualization shows that bike riding is most popular in the morning from 8 
 https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/3_TripsbyWeekdayforEachHour
 
 This visualization shows that bike riding is most popular among male
+
 https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/NYCStory
 
 This visualization shows that male Subscriber uses bike almost 7days a week compare to Customers which we can assume as tourist.
-https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/NYCStory
+https://public.tableau.com/app/profile/atreyee.dhar/viz/Book5_16234484220680/UserTripsbyGenderbyWeekday
 
 
 https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/NYCStory
