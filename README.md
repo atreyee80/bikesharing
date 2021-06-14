@@ -27,7 +27,7 @@ This visualization shows that male Subscriber uses bike almost 7days a week comp
 https://public.tableau.com/app/profile/atreyee.dhar/viz/Book5_16234484220680/UserTripsbyGenderbyWeekday
 https://public.tableau.com/app/profile/atreyee.dhar/viz/Book2_16234471172790/CheckoutTimesbyGender
 
-
+This pie chart visualization shows that around 20% are Customers and 880% are Subscribers
 https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book2/customers
 
 https://public.tableau.com/app/profile/atreyee.dhar/viz/201908-citibike-tripdata-Book8/NYCStory
